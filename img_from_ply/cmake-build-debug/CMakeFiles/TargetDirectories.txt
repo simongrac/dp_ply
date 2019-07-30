@@ -1,0 +1,3 @@
+/home/simon/CLionProjects/img_from_ply/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/simon/CLionProjects/img_from_ply/cmake-build-debug/CMakeFiles/img_from_ply.dir
+/home/simon/CLionProjects/img_from_ply/cmake-build-debug/CMakeFiles/edit_cache.dir
